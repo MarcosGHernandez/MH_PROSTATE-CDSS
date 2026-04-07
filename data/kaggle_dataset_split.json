@@ -1,0 +1,1712 @@
+[
+    {
+        "patient_id":"ProstateX-0133",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0133_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0133_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0133-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0078",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0078_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0078_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0078-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0015",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0015_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0015_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0015-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0136",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0136_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0136_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0136-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0058",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0058_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0058_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0058-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0068",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0068_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0068_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0068-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0160",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0160_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0160_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0160-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0039",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0039_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0039_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0039-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0007",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0007_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0007_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0007-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0127",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0127_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0127_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0127-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0009",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0009_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0009_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0009-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0140",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0140_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0140_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0140-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0124",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0124_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0124_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0124-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0174",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0174_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0174_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0174-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0112",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0112_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0112_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0112-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0145",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0145_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0145_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0145-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0028",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0028_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0028_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0028-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0082",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0082_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0082_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0082-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0176",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0176_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0176_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0176-Finding1-t2_tse_tra0_ROI.nii_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0166",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0166_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0166_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0166-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0050",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0050_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0050_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0050-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0000",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0000_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0000_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0000-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0109",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0109_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0109_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0109-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0089",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0089_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0089_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0089-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0142",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0142_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0142_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0142-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0030",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0030_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0030_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0030-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0090",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0090_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0090_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0090-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0012",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0012_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0012_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0012-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0063",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0063_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0063_ep2d_diff_tra_9.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0063-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0062",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0062_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0062_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0062-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0106",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0106_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0106_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0106-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0119",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0119_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0119_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0119-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0057",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0057_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0057_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0057-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0147",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0147_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0147_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0147-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0003",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0003_t2_tse_tra_3.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0003_ep2d_diff_tra_6.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0003-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0044",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0044_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0044_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0044-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0132",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0132_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0132_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0132-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0055",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0055_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0055_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0055-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0036",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0036_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0036_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0036-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0194",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0194_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0194_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0194-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0126",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0126_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0126_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0126-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0046",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0046_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0046_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0046-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0092",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0092_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0092_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0092-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0040",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0040_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0040_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0040-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0011",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0011_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0011_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0011-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0156",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0156_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0156_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0156-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0098",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0098_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0098_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0098-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0045",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0045_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0045_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0045-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0171",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0171_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0171_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0171-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0105",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0105_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0105_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0105-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0134",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0134_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0134_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0134-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0154",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0154_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0154_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0154-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0110",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0110_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0110_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0110-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0186",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0186_t2_tse_tra_10.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0186_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0186-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0187",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0187_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0187_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0187-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0182",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0182_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0182_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0182-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0181",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0181_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0181_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0181-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0051",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0051_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0051_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0051-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0014",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0014_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0014_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0014-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0070",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0070_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0070_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0070-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0024",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0024_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0024_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0024-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0049",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0049_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0049_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0049-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0101",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0101_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0101_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0101-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0116",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0116_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0116_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0116-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0180",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0180_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0180_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0180-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0031",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0031_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0031_ep2d_diff_tra_11.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0031-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0177",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0177_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0177_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0177-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0064",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0064_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0064_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0064-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0087",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0087_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0087_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0087-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0008",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0008_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0008_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0008-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0196",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0196_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0196_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0196-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0084",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0084_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0084_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0084-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0061",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0061_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0061_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0061-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0010",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0010_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0010_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0010-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0085",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0085_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0085_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0085-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0005",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0005_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0005_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0005-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0165",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0165_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0165_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0165-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0096",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0096_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0096_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0096-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0083",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0083_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0083_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0083-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0169",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0169_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0169_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0169-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0185",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0185_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0185_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0185-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0026",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0026_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0026_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0026-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0059",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0059_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0059_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0059-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0099",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0099_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0099_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0099-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0004",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0004_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0004_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0004-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0017",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0017_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0017_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0017-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0184",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0184_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0184_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0184-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0023",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0023_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0023_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0023-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0149",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0149_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0149_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0149-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0151",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0151_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0151_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0151-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0018",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0018_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0018_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0018-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0042",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0042_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0042_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0042-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0076",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0076_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0076_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0076-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0161",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0161_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0161_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0161-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0034",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0034_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0034_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0034-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0144",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0144_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0144_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0144-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0019",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0019_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0019_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0019-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0022",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0022_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0022_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0022-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0197",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0197_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0197_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0197-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0048",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0048_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0048_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0048-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0077",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0077_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0077_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0077-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0192",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0192_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0192_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0192-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0079",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0079_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0079_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0079-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0155",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0155_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0155_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0155-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0170",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0170_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0170_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0170-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0143",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0143_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0143_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0143-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0131",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0131_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0131_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0131-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0199",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0199_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0199_diffusie-3Scan-4bval_fs_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0199-Finding1-t2_tse_tra0_ROI.nii_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0094",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0094_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0094_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0094-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0121",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0121_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0121_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0121-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0067",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0067_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0067_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0067-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0097",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0097_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0097_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0097-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0095",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0095_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0095_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0095-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0117",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0117_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0117_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0117-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0072",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0072_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0072_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0072-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0111",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0111_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0111_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0111-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0202",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0202_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0202_diffusie-3Scan-4bval_fs_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0202-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0179",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0179_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0179_ep2d_diff_tra_9.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0179-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0107",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0107_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0107_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0107-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0129",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0129_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0129_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0129-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0104",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0104_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0104_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0104-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0195",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0195_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0195_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0195-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0035",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0035_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0035_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0035-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0074",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0074_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0074_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0074-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0033",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0033_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0033_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0033-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0173",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0173_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0173_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0173-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0029",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0029_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0029_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0029-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0139",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0139_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0139_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0139-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0159",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0159_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0159_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0159-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0073",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0073_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0073_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0073-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0191",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0191_t2_tse_tra_Grappa3_2.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0191_Diffusion_Coefficient_6.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0191-Finding1-t2_tse_tra_Grappa30_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0066",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0066_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0066_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0066-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0162",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0162_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0162_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0162-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0201",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0201_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0201_diffusie-3Scan-4bval_fs_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0201-Finding1-t2_tse_cor0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0200",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0200_t2_tse_tra_7.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0200_diffusie-3Scan-4bval_fs_9.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0200-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0069",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0069_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0069_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0069-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0102",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0102_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0102_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0102-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0038",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0038_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0038_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0038-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0168",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0168_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0168_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0168-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0088",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0088_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0088_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0088-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0190",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0190_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0190_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0190-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0148",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0148_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0148_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0148-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0163",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0163_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0163_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0163-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0122",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0122_t2_tse_tra_12.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0122_ep2d_diff_tra_9.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0122-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0125",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0125_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0125_ep2d_diff_tra_10.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0125-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0158",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0158_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0158_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0158-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0189",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0189_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0189_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0189-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0153",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0153_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0153_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0153-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0120",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0120_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0120_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0120-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0041",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0041_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0041_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0041-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0001",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0001_t2_tse_tra_10.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0001_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0001-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0115",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0115_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0115_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0115-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"train"
+    },
+    {
+        "patient_id":"ProstateX-0108",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0108_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0108_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0108-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0141",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0141_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0141_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0141-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0198",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0198_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0198_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0198-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0178",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0178_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0178_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0178-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0123",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0123_t2_tse_tra_10.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0123_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0123-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0091",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0091_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0091_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0091-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0016",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0016_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0016_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0016-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0100",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0100_t2_tse_tra_6.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0100_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0100-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0027",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0027_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0027_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0027-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0075",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0075_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0075_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0075-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0037",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0037_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0037_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0037-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0128",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0128_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0128_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0128-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0157",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0157_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0157_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0157-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0164",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0164_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0164_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0164-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0060",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0060_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0060_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0060-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0006",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0006_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0006_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0006-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0071",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0071_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0071_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0071-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0188",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0188_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0188_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0188-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0047",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0047_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0047_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0047-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"val"
+    },
+    {
+        "patient_id":"ProstateX-0167",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0167_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0167_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0167-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0032",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0032_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0032_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0032-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0065",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0065_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0065_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0065-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0146",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0146_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0146_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0146-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0103",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0103_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0103_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0103-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0043",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0043_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0043_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0043-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0081",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0081_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0081_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0081-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0013",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0013_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0013_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0013-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0175",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0175_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0175_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0175-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0114",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0114_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0114_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0114-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0054",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0054_t2_tse_tra_13.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0054_ep2d_diff_tra_11.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0054-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0193",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0193_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0193_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0193-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0086",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0086_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0086_ep2d_diff_tra_8.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0086-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0152",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0152_t2_tse_tra_9.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0152_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0152-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0002",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0002_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0002_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0002-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0118",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0118_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0118_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0118-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":1,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0183",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0183_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0183_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0183-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":1,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0135",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0135_t2_tse_tra_4.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0135_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0135-Finding1-t2_tse_tra0_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    },
+    {
+        "patient_id":"ProstateX-0020",
+        "finding_id":"Finding1",
+        "image_t2":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\T2\\ProstateX-0020_t2_tse_tra_5.nii",
+        "image_adc":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Images\\ADC\\ProstateX-0020_ep2d_diff_tra_7.nii",
+        "label":"C:\\Users\\Predator Pro\\OneDrive\\Documents\\Proyectos\\Marcos_proyects\\Health_can\\data\\clinical\\lesions\\lesions\\Masks\\T2\\ProstateX-0020-Finding1-t2_tse_tra_ROI.nii",
+        "clin_sig":0,
+        "split":"test"
+    }
+]

@@ -1,0 +1,58 @@
+# Virtual Environment & Python cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific ignores - Omit heavy data (NIfTI, DICOM, Raw)
+data/raw/
+data/raw_dicom/
+data/processed/
+data/processed_nifti/
+data/clinical/
+data/*.sqlite
+data/*.sqlite3
+data/*.db
+vector_db/
+chroma_db/
+
+# Globally ignore large medical imaging files
+*.nii
+*.nii.gz
+*.dcm
+*.npy
+*.npz
+
+# Models & Runs - Keep best only
+# Ignore intermediate training checkpoints to optimize repo size
+models/**/ckpt_*.pth
+models/**/temp_*.pth
+runs/
+reports/
+
+# Logs and debug files
+*.log
+*.err
+*.out
+streamlit_*.txt
+*.err
+*.out
+
+# Omit internal iterations per instruction
+docs/ITERATION_LOG.md
+docs/notebooks/
+*.ipynb
+phase*_eval.txt
+
+# OS Generated Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,39 @@
+{
+  "version": "HF-v3",
+  "sources": [
+    "picai",
+    "turkish"
+  ],
+  "threshold": 0.2969382405281067,
+  "features": [
+    "age",
+    "psa",
+    "prostate_volume",
+    "psad",
+    "nlr",
+    "albumin",
+    "crp",
+    "src_turkish"
+  ],
+  "metrics": {
+    "auc_roc": 0.8966,
+    "recall": 0.9016,
+    "precision": 0.696,
+    "f1": 0.7856,
+    "tn": 151,
+    "fp": 76,
+    "fn": 19,
+    "tp": 174
+  },
+  "params": {
+    "n_estimators": 634,
+    "max_depth": 3,
+    "learning_rate": 0.024023671769322408,
+    "subsample": 0.8933519342931223,
+    "colsample_bytree": 0.9694713476891738,
+    "min_child_weight": 7,
+    "gamma": 0.8772952869590127,
+    "reg_alpha": 0.9480967207910267,
+    "reg_lambda": 2.964785695373018
+  }
+}
