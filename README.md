@@ -1,7 +1,6 @@
 # MH PROSTATE-CDSS: Clinical Decision Support System for Prostate Cancer Detection
 
-**Organization:** VIKOTECH Solutions  
-**Academic Context:** Final Project for Computer Engineering, Universidad Tecnológica de la Mixteca (UTM)  
+**Author :** Marcos Gael Hernández Cruz 
 
 ---
 
